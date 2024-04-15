@@ -19,7 +19,7 @@ def dibujar_lado(longitud):
     turtle.forward(longitud)
     turtle.right(90)
 
-# Función para dibujar un cuadrado
+# Función para dibujar un cuadradooo
 def dibujar_cuadrado(longitud_lado):
     for _ in range(4):
         dibujar_lado(longitud_lado)
