@@ -1,6 +1,6 @@
 import turtle
 
-# Función principal
+# Función principall
 def main():
     longitud_lado = 100  # Longitud de cada lado del cuadrado
     configuracion_inicial()  # Configuración inicial
